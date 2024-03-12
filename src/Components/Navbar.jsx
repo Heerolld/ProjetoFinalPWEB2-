@@ -15,10 +15,10 @@ const Navbar = () => {
           <div className="flex items-center cursor-pointer text-gray-900">
             <img src={Moon} alt="" className="h-8 text-white" />
 
-            <h2 className="font-bold tracking-wide text-xl">Dark Mode</h2>
+            <h2 className="font-bold tracking-wide text-xl"></h2>
           </div>
         </div>
-        {/* Dark mode */}
+        {/* Dk */}
       </nav>
     </>
   );
